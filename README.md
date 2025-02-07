@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=800080&fontAlign=58&textBg=false&section=header&fontAlignY=19&rotate=178&descAlign=21" alt="header"/> 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=93B7F7&width=435&lines=Hello%2C+It's+Rohit+Gugadiya;Web+Developer" alt="Typing SVG" />
@@ -18,7 +19,7 @@
 - 📫 How to reach me **rohitgugadiya3@gmail.com**
 
 
-<h1 align="left">Languages and Tools:</h1>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="90" height="90"/> 
@@ -61,10 +62,18 @@
   </a> 
 </p>
 
-<h1 align="left">Lets Connect:</h1>
+
+
+### Employer?
+> [!IMPORTANT]  
+> <a href="https://drive.google.com/file/d/1EG2ErkbXNN7Gm8d1uuAS-bXMeBPI-KA9/view?usp=sharing" download>Download my resume</a>
+
+### Lets Connect
 <p align="left">
-<a href="https://linkedin.com/in/rohit-gugadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-gugadiya" height="70" width="70" /></a>
+<a href="https://linkedin.com/in/rohit-gugadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-gugadiya" height="60" width="60" /></a>
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=800080&fontAlign=58&textBg=false&section=footer&fontAlignY=19&rotate=178&descAlign=21" alt="header"/> 
 
 
 
