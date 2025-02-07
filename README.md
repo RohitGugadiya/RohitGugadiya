@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Rohit</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=93B7F7&width=435&lines=Hello%2C+It's+Rohit+Gugadiya;Web+Developer" alt="Typing SVG" />
+  </a>
+</p>
 <h3 align="center">I'm passionate about coding and embracing new technologies! With a strong technical foundation, I thrive in environments where I can build creative solutions and drive innovation. My mission is to craft seamless, user-centric web experiences that not only solve problems but also push the boundaries of what’s possible.</h3>
 
 <p align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnpvM21xdmZjb2hkNDN2cXJpdWlldmE1OTN2dHJ2NmMyZnpydjZqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" alt="rohitgugadiya" /> </p>
